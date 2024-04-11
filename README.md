@@ -1,4 +1,4 @@
-# ethcall
+# FORKED ethcall
 
 > [!WARNING]  
 > This package is not maintained and will be archived. Use viem's [`multicall`](https://viem.sh/docs/contract/multicall#multicall).
