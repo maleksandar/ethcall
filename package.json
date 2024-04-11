@@ -1,5 +1,5 @@
 {
-  "name": "@maleksandar/ethcall",
+  "name": "esbuild-compatible-ethcall",
   "version": "6.0.4",
   "description": "ethers.js-compatible wrapper around Multicall",
   "author": "Original: Timur Badretdinov <destinerx@gmail.com>, Fork: maleksandar",
